@@ -1,3 +1,5 @@
+<img src="portada.png">
+
 - 👋 Hola, mi nombre es Karla Marín
 - 👀 Estoy interesada en tecnología educativa para preescolar.
 - 🌱 Actualmente estoy estudiando un doctorado en Tecnología Educativa 
